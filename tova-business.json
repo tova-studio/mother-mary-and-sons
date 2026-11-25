@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:58:42.387Z",
+  "slug": "mothermary",
+  "name": "Mother Mary And Sons Ltd",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Builders & carpenters",
+    "niche": "builders & carpenters",
+    "group": "Trades & construction"
+  },
+  "contact": {
+    "phone": "+64277029620",
+    "email": "info@mothermary.co.nz",
+    "address": "705 Harewood Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/141831422656627"
+  },
+  "about": {
+    "overview": "Mother Mary is a Christchurch Construction Company working on Commercial earthquake repairs, rebuilds and new builds."
+  },
+  "before": {
+    "url": "http://www.mothermary.co.nz/",
+    "domain": "mothermary.co.nz",
+    "finalUrl": "http://www.mothermary.co.nz/",
+    "title": "Mother Mary - construction & project wisdom",
+    "pages": 5,
+    "score": 66,
+    "assessedAt": "2026-11-12T05:08:59.717Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.mothermary.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/mother-mary-and-sons/",
+    "repoUrl": "https://github.com/tova-studio/mother-mary-and-sons",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:58:42.387Z"
+  }
+}
